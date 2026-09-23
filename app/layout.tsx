@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     template: "%s · MedEd Essentials",
   },
   description:
-    "Sourced calls for abstracts, grants, awards, journal special issues, and news in medical education.",
+    "News, conferences, grants, awards, and journal special issues in medical education, each with an official source.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

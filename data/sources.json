@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22",
+  "generatedAt": "2026-09-23",
   "methodology": "Official public pages of medical education associations, foundations, journals, accreditors, and exam programs. Each record stores the source URL used at collection time.",
   "items": [
     {
@@ -8,8 +8,13 @@
       "organization": "AAMC",
       "url": "https://www.aamc.org/",
       "kind": "association",
-      "collects": ["conference", "award", "news"],
-      "notes": "Learn Serve Lead, GEA regional meetings, awards, and AAMCNews."
+      "collects": [
+        "conference",
+        "award",
+        "grant",
+        "news"
+      ],
+      "notes": "Learn Serve Lead, GEA national and regional grants, awards, NEXT Grant, and AAMCNews."
     },
     {
       "id": "amee",
@@ -17,8 +22,13 @@
       "organization": "AMEE",
       "url": "https://amee.org/",
       "kind": "association",
-      "collects": ["conference", "award", "news"],
-      "notes": "Annual conference, ASPIRE awards, and events calendar."
+      "collects": [
+        "conference",
+        "award",
+        "grant",
+        "news"
+      ],
+      "notes": "Annual conference, research and faculty-development grants, MERCS, ScholarRx, and ASPIRE awards."
     },
     {
       "id": "asme",
@@ -26,7 +36,10 @@
       "organization": "ASME",
       "url": "https://www.asme.org.uk/awards/",
       "kind": "association",
-      "collects": ["award", "grant"],
+      "collects": [
+        "award",
+        "grant"
+      ],
       "notes": "Awards, small grants, doctoral funding, and trainee prizes."
     },
     {
@@ -35,7 +48,11 @@
       "organization": "IAMSE",
       "url": "https://www.iamse.org/",
       "kind": "association",
-      "collects": ["conference", "award", "news"],
+      "collects": [
+        "conference",
+        "award",
+        "news"
+      ],
       "notes": "Annual conference calls, travel awards, and association news."
     },
     {
@@ -44,7 +61,9 @@
       "organization": "ACGME",
       "url": "https://www.acgme.org/",
       "kind": "accreditor",
-      "collects": ["conference"],
+      "collects": [
+        "conference"
+      ],
       "notes": "Annual Educational Conference abstracts."
     },
     {
@@ -53,7 +72,9 @@
       "organization": "Royal College",
       "url": "https://icre.royalcollege.ca/",
       "kind": "association",
-      "collects": ["conference"],
+      "collects": [
+        "conference"
+      ],
       "notes": "International Conference on Residency Education (ICRE)."
     },
     {
@@ -62,7 +83,9 @@
       "organization": "NUS Centre for Medical Education",
       "url": "https://medicine.nus.edu.sg/cenmed/sites/apmec2027/index.html",
       "kind": "university",
-      "collects": ["conference"],
+      "collects": [
+        "conference"
+      ],
       "notes": "APMEC annual conference calls."
     },
     {
@@ -71,7 +94,10 @@
       "organization": "NBME",
       "url": "https://www.nbme.org/",
       "kind": "exam",
-      "collects": ["grant", "news"],
+      "collects": [
+        "grant",
+        "news"
+      ],
       "notes": "Stemmler Grants, Emerging Innovators Grants, and assessment news."
     },
     {
@@ -80,7 +106,9 @@
       "organization": "Macy Foundation",
       "url": "https://macyfoundation.org/",
       "kind": "foundation",
-      "collects": ["grant"],
+      "collects": [
+        "grant"
+      ],
       "notes": "Board grants and RFAs in medical and nursing education."
     },
     {
@@ -89,7 +117,10 @@
       "organization": "Gold Foundation",
       "url": "https://gold-foundation.org/",
       "kind": "foundation",
-      "collects": ["grant", "award"],
+      "collects": [
+        "grant",
+        "award"
+      ],
       "notes": "GHHS chapter grants and humanism awards."
     },
     {
@@ -98,7 +129,10 @@
       "organization": "Intealth",
       "url": "https://www.intealth.org/",
       "kind": "foundation",
-      "collects": ["grant", "news"],
+      "collects": [
+        "grant",
+        "news"
+      ],
       "notes": "FAIMER fellowships and IMG well-being grants."
     },
     {
@@ -107,7 +141,9 @@
       "organization": "USMLE",
       "url": "https://www.usmle.org/",
       "kind": "exam",
-      "collects": ["news"],
+      "collects": [
+        "news"
+      ],
       "notes": "Passing-standard reviews and testing-policy announcements."
     },
     {
@@ -116,7 +152,9 @@
       "organization": "LCME",
       "url": "https://lcme.org/",
       "kind": "accreditor",
-      "collects": ["news"],
+      "collects": [
+        "news"
+      ],
       "notes": "Functions and Structure of a Medical School standards and public hearings."
     },
     {
@@ -125,7 +163,10 @@
       "organization": "Springer Nature",
       "url": "https://bmcmededuc.biomedcentral.com/articles/collections",
       "kind": "journal",
-      "collects": ["journal", "news"],
+      "collects": [
+        "journal",
+        "news"
+      ],
       "notes": "Open collections / calls for papers and latest articles RSS."
     },
     {
@@ -134,7 +175,9 @@
       "organization": "MDPI",
       "url": "https://www.mdpi.com/journal/education",
       "kind": "journal",
-      "collects": ["journal"],
+      "collects": [
+        "journal"
+      ],
       "notes": "Special issues on medical education."
     },
     {
@@ -143,7 +186,9 @@
       "organization": "BMJ / Association for Medical Humanities",
       "url": "https://mh.bmj.com/",
       "kind": "journal",
-      "collects": ["journal"],
+      "collects": [
+        "journal"
+      ],
       "notes": "Topic collections at the intersection of humanities and clinical training."
     },
     {
@@ -152,7 +197,9 @@
       "organization": "STFM",
       "url": "https://www.stfm.org/",
       "kind": "association",
-      "collects": ["conference"],
+      "collects": [
+        "conference"
+      ],
       "notes": "Annual Spring Conference."
     },
     {
@@ -161,8 +208,89 @@
       "organization": "CFPC",
       "url": "https://www.cfpc.ca/",
       "kind": "association",
-      "collects": ["conference"],
+      "collects": [
+        "conference"
+      ],
       "notes": "Family Medicine Forum."
+    },
+    {
+      "id": "ssh",
+      "name": "Society for Simulation in Healthcare",
+      "organization": "SSH",
+      "url": "https://www.ssih.org/imsh",
+      "kind": "association",
+      "collects": [
+        "conference"
+      ],
+      "notes": "International Meeting on Simulation in Healthcare (IMSH)."
+    },
+    {
+      "id": "sesam",
+      "name": "Society for Simulation in Europe",
+      "organization": "SESAM",
+      "url": "https://sesamsociety.org/",
+      "kind": "association",
+      "collects": [
+        "conference"
+      ],
+      "notes": "SESAM Annual Meeting."
+    },
+    {
+      "id": "inacsl",
+      "name": "International Nursing Association for Clinical Simulation and Learning",
+      "organization": "INACSL",
+      "url": "https://www.inacsl.org/",
+      "kind": "association",
+      "collects": [
+        "conference"
+      ],
+      "notes": "INACSL annual conference and call for abstracts."
+    },
+    {
+      "id": "ipss",
+      "name": "International Pediatric Simulation Society",
+      "organization": "IPSS",
+      "url": "https://ipss.org/",
+      "kind": "association",
+      "collects": [
+        "conference"
+      ],
+      "notes": "IPSSW, the international pediatric simulation meeting."
+    },
+    {
+      "id": "aspih",
+      "name": "Association for Simulated Practice in Healthcare",
+      "organization": "ASPiH",
+      "url": "https://fitwise.eventsair.com/aspih2026/",
+      "kind": "association",
+      "collects": [
+        "conference"
+      ],
+      "notes": "UK/Europe simulation education conference."
+    },
+    {
+      "id": "tgme",
+      "name": "The Generalists in Medical Education",
+      "organization": "TGME",
+      "url": "https://thegeneralists.org/",
+      "kind": "association",
+      "collects": [
+        "conference",
+        "news"
+      ],
+      "notes": "Annual conference on collaboration, innovation, and dissemination in health professions education."
+    },
+    {
+      "id": "ama",
+      "name": "American Medical Association",
+      "organization": "AMA",
+      "url": "https://www.ama-assn.org/education/changemeded-initiative",
+      "kind": "association",
+      "collects": [
+        "grant",
+        "news"
+      ],
+      "notes": "ChangeMedEd Innovation Grants, precision education grants, Bright Ideas Showcase, and the Giambalvo Fund."
     }
   ]
 }

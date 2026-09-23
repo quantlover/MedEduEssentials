@@ -1,11 +1,12 @@
 import Link from "next/link";
 
 const links = [
+  { href: "/news", label: "News" },
   { href: "/conferences", label: "Conference" },
   { href: "/grants", label: "Grant" },
   { href: "/awards", label: "Award" },
   { href: "/journals", label: "Journal" },
-  { href: "/news", label: "News" },
+  { href: "/sources", label: "Sources" },
 ];
 
 export function SiteHeader() {
@@ -13,9 +14,6 @@ export function SiteHeader() {
     <header className="border-b border-line bg-card/80 backdrop-blur">
       <div className="mx-auto flex max-w-6xl flex-col gap-3 px-4 py-4 sm:flex-row sm:items-center sm:justify-between">
         <Link href="/" className="group">
-          <p className="text-[11px] uppercase tracking-[0.22em] text-teal">
-            Medical education bulletin
-          </p>
           <p className="font-serif text-2xl leading-tight text-ink group-hover:text-teal-dark">
             MedEd Essentials
           </p>
@@ -30,9 +28,6 @@ export function SiteHeader() {
               {link.label}
             </Link>
           ))}
-          <Link href="/sources" className="hover:text-teal-dark">
-            Sources
-          </Link>
         </nav>
       </div>
     </header>

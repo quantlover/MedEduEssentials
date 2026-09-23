@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { NewsList } from "@/components/NewsList";
 import {
   categoryMeta,
   generatedAt,
@@ -13,117 +14,98 @@ import type { Category } from "@/lib/types";
 const categories: Category[] = ["conference", "grant", "award", "journal"];
 
 export default function HomePage() {
-  const deadlines = getUpcomingDeadlines(6);
-  const news = getNews().slice(0, 4);
+  const news = getNews();
+  const headlines = news.slice(0, 6);
+  const deadlines = getUpcomingDeadlines(5);
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-10">
       <section className="max-w-3xl">
-        <p className="text-xs uppercase tracking-[0.22em] text-teal">
-          Sourced from associations, foundations, journals, and boards
-        </p>
-        <h1 className="mt-3 font-serif text-4xl leading-tight sm:text-5xl">
-          Calls, funding, and news for medical education — with the original source on every item.
+        <h1 className="font-serif text-4xl leading-tight sm:text-5xl">
+          News in medical education
         </h1>
         <p className="mt-4 text-lg leading-relaxed text-muted">
-          MedEd Essentials collects public calls for abstracts, grant proposals,
-          awards, and journal special issues, plus a newest-first news desk.
-          Nothing is listed without a verifiable source URL.
-        </p>
-        <p className="mt-3 text-sm text-muted">
-          Catalog dated {generatedAt}. Refresh with{" "}
-          <code className="rounded bg-line/60 px-1.5 py-0.5 text-[13px]">
-            npm run collect
-          </code>
-          .
+          Newest first, then open conferences, grants, awards, and journal
+          special issues. Every item links to its official source.
         </p>
       </section>
 
-      <section className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-        {categories.map((category) => {
-          const meta = categoryMeta(category);
-          const open = getOpenCount(category);
-          const total = getOpportunities(category).length;
-          return (
-            <Link
-              key={category}
-              href={meta.href}
-              className="rounded-2xl border border-line bg-card p-5 transition hover:border-teal/40 hover:shadow-sm"
-            >
-              <p className="text-xs uppercase tracking-[0.16em] text-teal">
-                {meta.label}
-              </p>
-              <p className="mt-3 font-serif text-4xl">{open}</p>
-              <p className="text-sm text-muted">open of {total}</p>
-              <p className="mt-3 text-sm leading-relaxed text-ink/80">
-                {meta.blurb}
-              </p>
-            </Link>
-          );
-        })}
-      </section>
-
-      <section className="mt-14 grid gap-12 lg:grid-cols-[1.2fr_0.8fr]">
+      <section className="mt-10 grid gap-12 lg:grid-cols-[minmax(0,1.4fr)_minmax(16rem,0.8fr)]">
         <div>
-          <div className="mb-4 flex items-end justify-between">
-            <h2 className="font-serif text-2xl">Nearest open deadlines</h2>
-            <Link href="/conferences" className="text-sm text-teal-dark hover:underline">
-              Browse all
+          <div className="mb-6 flex items-end justify-between gap-4">
+            <h2 className="font-serif text-2xl">Latest</h2>
+            <Link href="/news" className="text-sm text-teal-dark hover:underline">
+              All news
             </Link>
           </div>
-          <ul className="divide-y divide-line rounded-2xl border border-line bg-card">
-            {deadlines.map((item) => {
-              const remaining = daysUntil(item.deadline);
+          <NewsList items={headlines} />
+        </div>
+
+        <aside>
+          <h2 className="mb-4 font-serif text-2xl">Open now</h2>
+          <ul className="grid gap-3">
+            <li>
+              <Link
+                href="/news"
+                className="block rounded-2xl border border-line bg-card p-4 transition hover:border-teal/40"
+              >
+                <p className="text-sm text-muted">News</p>
+                <p className="mt-1 font-serif text-3xl">{news.length}</p>
+                <p className="text-sm text-muted">items, newest first</p>
+              </Link>
+            </li>
+            {categories.map((category) => {
+              const meta = categoryMeta(category);
+              const open = getOpenCount(category);
+              const total = getOpportunities(category).length;
               return (
-                <li key={item.id} className="px-5 py-4">
-                  <p className="text-xs uppercase tracking-[0.14em] text-muted">
-                    {categoryMeta(item.category).label}
-                    {remaining !== null ? ` · ${remaining} days` : ""}
-                  </p>
-                  <a
-                    href={item.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="mt-1 block font-medium hover:text-teal-dark"
+                <li key={category}>
+                  <Link
+                    href={meta.href}
+                    className="block rounded-2xl border border-line bg-card p-4 transition hover:border-teal/40"
                   >
-                    {item.title}
-                  </a>
-                  <p className="text-sm text-muted">
-                    {item.organization}
-                    {item.deadline ? ` · ${formatDate(item.deadline)}` : ""}
-                  </p>
+                    <p className="text-sm text-muted">{meta.label}</p>
+                    <p className="mt-1 font-serif text-3xl">{open}</p>
+                    <p className="text-sm text-muted">open of {total}</p>
+                  </Link>
                 </li>
               );
             })}
           </ul>
-        </div>
-        <div>
-          <div className="mb-4 flex items-end justify-between">
-            <h2 className="font-serif text-2xl">News</h2>
-            <Link href="/news" className="text-sm text-teal-dark hover:underline">
-              Newest first
-            </Link>
+
+          <div className="mt-8">
+            <h2 className="mb-3 font-serif text-2xl">Closing soon</h2>
+            <ul className="divide-y divide-line rounded-2xl border border-line bg-card">
+              {deadlines.map((item) => {
+                const remaining = daysUntil(item.deadline);
+                return (
+                  <li key={item.id} className="px-4 py-3">
+                    <p className="text-xs text-muted">
+                      {categoryMeta(item.category).label}
+                      {remaining !== null
+                        ? ` · ${remaining} ${remaining === 1 ? "day" : "days"}`
+                        : ""}
+                    </p>
+                    <a
+                      href={item.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="mt-1 block text-sm font-medium hover:text-teal-dark"
+                    >
+                      {item.title}
+                    </a>
+                    <p className="text-sm text-muted">
+                      {item.deadline ? formatDate(item.deadline) : ""}
+                    </p>
+                  </li>
+                );
+              })}
+            </ul>
           </div>
-          <ul className="space-y-5">
-            {news.map((item) => (
-              <li key={item.id}>
-                <time className="text-xs uppercase tracking-[0.16em] text-gold">
-                  {formatDate(item.publishedAt)}
-                </time>
-                <a
-                  href={item.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="mt-1 block font-serif text-lg leading-snug hover:text-teal-dark"
-                >
-                  {item.title}
-                </a>
-                <p className="mt-1 text-sm text-muted">{item.organization}</p>
-              </li>
-            ))}
-          </ul>
-        </div>
+        </aside>
       </section>
+
+      <p className="mt-10 text-sm text-muted">Catalog dated {generatedAt}.</p>
     </div>
   );
 }

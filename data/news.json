@@ -3,6 +3,17 @@
   "methodology": "News items are taken from official organization announcements and dated press pages. The feed is sorted newest to oldest by publishedAt. RSS collection can append additional items from IAMSE and BMC Medical Education.",
   "items": [
     {
+      "id": "tgme-program-2026-09-03",
+      "title": "TGME posts a draft 2026 conference-at-a-glance program",
+      "summary": "The Generalists in Medical Education published a draft program for its 4–6 November 2026 annual conference in Anaheim, California. The program is subject to change. Theme: New Teams for New Times: Collective Wisdom in Medical Education. The call for proposals closed 17 May 2026.",
+      "publishedAt": "2026-09-03",
+      "organization": "The Generalists in Medical Education",
+      "url": "https://thegeneralists.org/category/announcements/",
+      "sourceName": "TGME announcements",
+      "sourceUrl": "https://thegeneralists.org/category/announcements/",
+      "collectedAt": "2026-09-23"
+    },
+    {
       "id": "lcme-hearing-2026-09-22",
       "title": "LCME public hearing on AY 2028–29 Functions and Structure of a Medical School (Standards 1–6 & 8–12)",
       "summary": "The Liaison Committee on Medical Education holds a public hearing as the close of a 60-day written comment period on draft 2028–29 accreditation standards, excluding Standard 7 (commented separately). Facilitated by LCME Chair Charles J. Lockwood, MD, MHCM, and Chair-elect Donna Elliott, MD, EdD.",
@@ -243,6 +254,50 @@
       "sourceName": "AAMC press releases",
       "sourceUrl": "https://www.aamc.org/news/press-releases/aamc-member-medical-schools-recognized-advancing-nutrition-training-medical-education",
       "collectedAt": "2026-09-22"
+    },
+    {
+      "id": "amee-research-grant-winners-2026-08-19",
+      "title": "AMEE names Van Nguyen recipient of the 2026 Research Grant",
+      "summary": "AMEE awarded its 2026 Research Grant to Dr Van Nguyen for a realist economic evaluation of community-based mental health placements in urban and rural settings. Associate investigators include Jonathan Foo, Emiliana Guerra, Danielle Najm, Terry Haines, Luke Robinson, and Charlotte Rees.",
+      "publishedAt": "2026-08-19",
+      "organization": "AMEE – The International Association for Health Professions Education",
+      "url": "https://amee.org/news/articles/winners-of-the-amee-research-grant-2026/",
+      "sourceName": "AMEE news",
+      "sourceUrl": "https://amee.org/news/articles/winners-of-the-amee-research-grant-2026/",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "amee-fd-grant-winner-2026-07-23",
+      "title": "AMEE awards 2026 Faculty Development Research Grant to Maastricht team",
+      "summary": "Lianne Loosveld (Maastricht University), with Eline Vanassche and Diana Dolmans, received the 2026 AMEE Faculty Development Research Grant to study how teacher identity relates to engagement in faculty development.",
+      "publishedAt": "2026-07-23",
+      "organization": "AMEE – The International Association for Health Professions Education",
+      "url": "https://amee.org/news/articles/amee-faculty-development-research-grant-2026/",
+      "sourceName": "AMEE news",
+      "sourceUrl": "https://amee.org/news/articles/amee-faculty-development-research-grant-2026/",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "amee-mercs-winners-2026-07-15",
+      "title": "AMEE announces 2026 MERCS Grant recipients in Sri Lanka and Pakistan",
+      "summary": "Two AMEE grants for medical educators in resource-constrained settings were awarded: Madawa Chandratilake (University of Kelaniya, Sri Lanka) for a low-cost burnout-mitigation package for undergraduate healthcare students, and Bushra Mehboob (Khyber Medical University, Pakistan) for a study of culture in undergraduate accreditation in a postcolonial context.",
+      "publishedAt": "2026-07-15",
+      "organization": "AMEE – The International Association for Health Professions Education",
+      "url": "https://amee.org/news/articles/amee-mercs-grant-2026/",
+      "sourceName": "AMEE news",
+      "sourceUrl": "https://amee.org/news/articles/amee-mercs-grant-2026/",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "ama-precision-education-grants-2026-01-13",
+      "title": "AMA announces recipients of USD 12 million precision education grant program",
+      "summary": "The American Medical Association named 11 teams, spanning more than 80 institutions, as recipients of the Transforming Lifelong Learning Through Precision Education Grant Program. Each team receives USD 1.1 million over four years to use data and AI to personalize learning for medical students, residents, and practicing physicians.",
+      "publishedAt": "2026-01-13",
+      "organization": "American Medical Association",
+      "url": "https://www.ama-assn.org/press-center/ama-press-releases/ama-announces-recipients-12-million-precision-education-grant",
+      "sourceName": "AMA press releases",
+      "sourceUrl": "https://www.ama-assn.org/press-center/ama-press-releases/ama-announces-recipients-12-million-precision-education-grant",
+      "collectedAt": "2026-09-23"
     }
   ]
 }

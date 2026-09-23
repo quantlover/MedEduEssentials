@@ -7,8 +7,17 @@ import {
   statusLabel,
 } from "@/lib/dates";
 import { categoryMeta } from "@/lib/catalog";
+import { tagLabel } from "@/lib/tags";
 
-export function OpportunityCard({ item }: { item: Opportunity }) {
+export function OpportunityCard({
+  item,
+  onTagClick,
+  activeTags = [],
+}: {
+  item: Opportunity;
+  onTagClick?: (tag: string) => void;
+  activeTags?: string[];
+}) {
   const remaining = daysUntil(item.deadline);
   const urgency = deadlineUrgency(item.deadline);
   const meta = categoryMeta(item.category);
@@ -26,6 +35,34 @@ export function OpportunityCard({ item }: { item: Opportunity }) {
         <p className="mt-1 text-sm text-muted">{item.organization}</p>
       </div>
       <p className="text-[15px] leading-relaxed text-ink/85">{item.description}</p>
+      {item.tags.length > 0 ? (
+        <ul className="flex flex-wrap gap-1.5">
+          {item.tags.map((tag) => {
+            const active = activeTags.includes(tag);
+            return (
+              <li key={tag}>
+                {onTagClick ? (
+                  <button
+                    type="button"
+                    onClick={() => onTagClick(tag)}
+                    className={`rounded-full px-2 py-0.5 text-xs ${
+                      active
+                        ? "bg-teal text-paper"
+                        : "border border-line text-muted hover:text-ink"
+                    }`}
+                  >
+                    {tagLabel(tag)}
+                  </button>
+                ) : (
+                  <span className="rounded-full border border-line px-2 py-0.5 text-xs text-muted">
+                    {tagLabel(tag)}
+                  </span>
+                )}
+              </li>
+            );
+          })}
+        </ul>
+      ) : null}
       <dl className="grid gap-2 text-sm sm:grid-cols-2">
         {item.deadline ? (
           <Fact
