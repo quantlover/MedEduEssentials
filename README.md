@@ -2,11 +2,12 @@
 
 A public bulletin of medical-education opportunities, each tied to the issuing organization’s page:
 
-- **Conference** — calls for abstracts and upcoming meetings
-- **Grant** — foundation, board, and association funding
-- **Award** — prizes and nominations
-- **Journal: special issue** — open collections and CFPs
 - **News** — newest first
+- **Conferences** — calls for abstracts and upcoming meetings
+- **Grants** — foundation, board, and association funding
+- **Awards** — prizes and nominations
+- **Journal: Special Issues** — open collections and CFPs
+- **Sources** — official pages used for the catalog
 
 The first catalog was collected on 22 September 2026 from official public pages (AAMC, AMEE, ASME, IAMSE, ACGME, NBME, Macy Foundation, Gold Foundation, Intealth/FAIMER, USMLE, LCME, BMC Medical Education, and others). See [Sources](/sources) in the running site.
 

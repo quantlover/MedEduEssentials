@@ -2,10 +2,10 @@ import Link from "next/link";
 
 const links = [
   { href: "/news", label: "News" },
-  { href: "/conferences", label: "Conference" },
-  { href: "/grants", label: "Grant" },
-  { href: "/awards", label: "Award" },
-  { href: "/journals", label: "Journal" },
+  { href: "/conferences", label: "Conferences" },
+  { href: "/grants", label: "Grants" },
+  { href: "/awards", label: "Awards" },
+  { href: "/journals", label: "Journal: Special Issues" },
   { href: "/sources", label: "Sources" },
 ];
 

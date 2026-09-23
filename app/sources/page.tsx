@@ -9,7 +9,7 @@ export default function SourcesPage() {
   return (
     <div className="mx-auto max-w-3xl px-4 py-10">
       <p className="text-xs uppercase tracking-[0.2em] text-teal">Provenance</p>
-      <h1 className="mt-2 font-serif text-4xl">Collection sources</h1>
+      <h1 className="mt-2 font-serif text-4xl">Sources</h1>
       <p className="mt-3 text-lg leading-relaxed text-muted">
         Listings are gathered from public pages of medical education
         associations, foundations, journals, accreditors, and exam boards.

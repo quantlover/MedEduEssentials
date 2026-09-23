@@ -3,7 +3,7 @@ import { PageIntro } from "@/components/PageIntro";
 import { getOpenCount, getOpportunities } from "@/lib/catalog";
 
 export const metadata = {
-  title: "Journal: special issue",
+  title: "Journal: Special Issues",
 };
 
 export default function JournalsPage() {

@@ -11,7 +11,7 @@ export function SiteFooter() {
         </p>
         <div className="flex gap-4">
           <Link href="/sources" className="hover:text-teal-dark">
-            Collection sources
+            Sources
           </Link>
           <Link href="/about" className="hover:text-teal-dark">
             About

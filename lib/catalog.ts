@@ -61,7 +61,7 @@ export function categoryMeta(category: Category) {
     case "conference":
       return {
         href: "/conferences",
-        label: "Conference",
+        label: "Conferences",
         plural: "Conferences",
         blurb:
           "Calls for abstracts, workshops, and sessions at health professions education meetings.",
@@ -69,7 +69,7 @@ export function categoryMeta(category: Category) {
     case "grant":
       return {
         href: "/grants",
-        label: "Grant",
+        label: "Grants",
         plural: "Grants",
         blurb:
           "Calls for proposals from foundations, boards, and associations that fund medical education work.",
@@ -77,7 +77,7 @@ export function categoryMeta(category: Category) {
     case "award":
       return {
         href: "/awards",
-        label: "Award",
+        label: "Awards",
         plural: "Awards",
         blurb:
           "Nominations and prizes recognizing teachers, scholars, students, and institutions.",
@@ -85,8 +85,8 @@ export function categoryMeta(category: Category) {
     case "journal":
       return {
         href: "/journals",
-        label: "Journal: special issue",
-        plural: "Journal special issues",
+        label: "Journal: Special Issues",
+        plural: "Journal: Special Issues",
         blurb:
           "Open collections and special issues inviting papers in medical and health professions education.",
       };

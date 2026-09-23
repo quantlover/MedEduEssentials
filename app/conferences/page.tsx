@@ -3,7 +3,7 @@ import { PageIntro } from "@/components/PageIntro";
 import { getOpenCount, getOpportunities } from "@/lib/catalog";
 
 export const metadata = {
-  title: "Conference",
+  title: "Conferences",
 };
 
 export default function ConferencesPage() {
