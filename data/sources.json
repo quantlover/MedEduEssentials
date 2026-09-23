@@ -1,0 +1,168 @@
+{
+  "generatedAt": "2026-09-22",
+  "methodology": "Official public pages of medical education associations, foundations, journals, accreditors, and exam programs. Each record stores the source URL used at collection time.",
+  "items": [
+    {
+      "id": "aamc",
+      "name": "Association of American Medical Colleges",
+      "organization": "AAMC",
+      "url": "https://www.aamc.org/",
+      "kind": "association",
+      "collects": ["conference", "award", "news"],
+      "notes": "Learn Serve Lead, GEA regional meetings, awards, and AAMCNews."
+    },
+    {
+      "id": "amee",
+      "name": "AMEE – The International Association for Health Professions Education",
+      "organization": "AMEE",
+      "url": "https://amee.org/",
+      "kind": "association",
+      "collects": ["conference", "award", "news"],
+      "notes": "Annual conference, ASPIRE awards, and events calendar."
+    },
+    {
+      "id": "asme",
+      "name": "Association for the Study of Medical Education",
+      "organization": "ASME",
+      "url": "https://www.asme.org.uk/awards/",
+      "kind": "association",
+      "collects": ["award", "grant"],
+      "notes": "Awards, small grants, doctoral funding, and trainee prizes."
+    },
+    {
+      "id": "iamse",
+      "name": "International Association of Medical Science Educators",
+      "organization": "IAMSE",
+      "url": "https://www.iamse.org/",
+      "kind": "association",
+      "collects": ["conference", "award", "news"],
+      "notes": "Annual conference calls, travel awards, and association news."
+    },
+    {
+      "id": "acgme",
+      "name": "Accreditation Council for Graduate Medical Education",
+      "organization": "ACGME",
+      "url": "https://www.acgme.org/",
+      "kind": "accreditor",
+      "collects": ["conference"],
+      "notes": "Annual Educational Conference abstracts."
+    },
+    {
+      "id": "royal-college",
+      "name": "Royal College of Physicians and Surgeons of Canada",
+      "organization": "Royal College",
+      "url": "https://icre.royalcollege.ca/",
+      "kind": "association",
+      "collects": ["conference"],
+      "notes": "International Conference on Residency Education (ICRE)."
+    },
+    {
+      "id": "apmec",
+      "name": "Asia Pacific Medical Education Conference",
+      "organization": "NUS Centre for Medical Education",
+      "url": "https://medicine.nus.edu.sg/cenmed/sites/apmec2027/index.html",
+      "kind": "university",
+      "collects": ["conference"],
+      "notes": "APMEC annual conference calls."
+    },
+    {
+      "id": "nbme",
+      "name": "National Board of Medical Examiners",
+      "organization": "NBME",
+      "url": "https://www.nbme.org/",
+      "kind": "exam",
+      "collects": ["grant", "news"],
+      "notes": "Stemmler Grants, Emerging Innovators Grants, and assessment news."
+    },
+    {
+      "id": "macy",
+      "name": "Josiah Macy Jr. Foundation",
+      "organization": "Macy Foundation",
+      "url": "https://macyfoundation.org/",
+      "kind": "foundation",
+      "collects": ["grant"],
+      "notes": "Board grants and RFAs in medical and nursing education."
+    },
+    {
+      "id": "gold",
+      "name": "The Arnold P. Gold Foundation",
+      "organization": "Gold Foundation",
+      "url": "https://gold-foundation.org/",
+      "kind": "foundation",
+      "collects": ["grant", "award"],
+      "notes": "GHHS chapter grants and humanism awards."
+    },
+    {
+      "id": "intealth",
+      "name": "Intealth (ECFMG / FAIMER)",
+      "organization": "Intealth",
+      "url": "https://www.intealth.org/",
+      "kind": "foundation",
+      "collects": ["grant", "news"],
+      "notes": "FAIMER fellowships and IMG well-being grants."
+    },
+    {
+      "id": "usmle",
+      "name": "United States Medical Licensing Examination",
+      "organization": "USMLE",
+      "url": "https://www.usmle.org/",
+      "kind": "exam",
+      "collects": ["news"],
+      "notes": "Passing-standard reviews and testing-policy announcements."
+    },
+    {
+      "id": "lcme",
+      "name": "Liaison Committee on Medical Education",
+      "organization": "LCME",
+      "url": "https://lcme.org/",
+      "kind": "accreditor",
+      "collects": ["news"],
+      "notes": "Functions and Structure of a Medical School standards and public hearings."
+    },
+    {
+      "id": "bmc-meded",
+      "name": "BMC Medical Education",
+      "organization": "Springer Nature",
+      "url": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "kind": "journal",
+      "collects": ["journal", "news"],
+      "notes": "Open collections / calls for papers and latest articles RSS."
+    },
+    {
+      "id": "education-sciences",
+      "name": "Education Sciences",
+      "organization": "MDPI",
+      "url": "https://www.mdpi.com/journal/education",
+      "kind": "journal",
+      "collects": ["journal"],
+      "notes": "Special issues on medical education."
+    },
+    {
+      "id": "medical-humanities",
+      "name": "Medical Humanities (BMJ)",
+      "organization": "BMJ / Association for Medical Humanities",
+      "url": "https://mh.bmj.com/",
+      "kind": "journal",
+      "collects": ["journal"],
+      "notes": "Topic collections at the intersection of humanities and clinical training."
+    },
+    {
+      "id": "stfm",
+      "name": "Society of Teachers of Family Medicine",
+      "organization": "STFM",
+      "url": "https://www.stfm.org/",
+      "kind": "association",
+      "collects": ["conference"],
+      "notes": "Annual Spring Conference."
+    },
+    {
+      "id": "cfpc",
+      "name": "College of Family Physicians of Canada",
+      "organization": "CFPC",
+      "url": "https://www.cfpc.ca/",
+      "kind": "association",
+      "collects": ["conference"],
+      "notes": "Family Medicine Forum."
+    }
+  ]
+}

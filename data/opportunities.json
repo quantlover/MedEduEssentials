@@ -1,0 +1,913 @@
+{
+  "generatedAt": "2026-09-23",
+  "methodology": "Each opportunity was collected from the issuing organization's public page. The source URL is the page used at collection time; the opportunity URL is the official call or program page. Deadlines and amounts are copied from those pages, not inferred.",
+  "items": [
+    {
+      "id": "acgme-aec-2027-abstracts",
+      "category": "conference",
+      "title": "2027 ACGME Annual Educational Conference — Call for Abstracts",
+      "organization": "Accreditation Council for Graduate Medical Education",
+      "description": "The ACGME invites in-person poster abstracts for the 2027 Annual Educational Conference. Submissions should address accreditation and management of GME programs and Sponsoring Institutions, for DIOs, program directors, coordinators, residents, fellows, faculty, and hospital administrators. Abstracts require background, objectives, methods, results/outcomes, and significance beyond the local setting.",
+      "deadline": "2026-09-24",
+      "deadlineNote": "5:00 p.m. Central",
+      "eventStart": "2027-02-25",
+      "eventEnd": "2027-02-27",
+      "location": "San Antonio, Texas, USA",
+      "region": "North America",
+      "status": "open",
+      "url": "https://web.cvent.com/event/c44d8bf9-2be8-43b1-b712-8d58ce478c68/websitePage:6be8c991-9ba7-4c36-b2a4-569f13b39d08",
+      "sourceName": "ACGME / Cvent conference site",
+      "sourceUrl": "https://web.cvent.com/event/c44d8bf9-2be8-43b1-b712-8d58ce478c68/websitePage:6be8c991-9ba7-4c36-b2a4-569f13b39d08",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "GME",
+        "abstracts",
+        "poster"
+      ]
+    },
+    {
+      "id": "aamc-lsl-2027-meded",
+      "category": "conference",
+      "title": "Learn Serve Lead 2027 — Call for Medical Education Submissions",
+      "organization": "Association of American Medical Colleges",
+      "description": "AAMC is accepting medical education submissions for Learn Serve Lead 2027 in three types: Sessions on Medical Education; Medical Education Innovation Abstracts; and Medical Education Research Abstracts. The meeting convenes medical schools and teaching hospitals across campuses, disciplines, and missions.",
+      "deadline": "2026-12-07",
+      "deadlineNote": "11:59 p.m. PT",
+      "eventStart": "2027-11-12",
+      "eventEnd": "2027-11-16",
+      "location": "Washington, DC, USA",
+      "region": "North America",
+      "status": "open",
+      "url": "https://www.aamc.org/about-us/medical-education/scholarship-submissions",
+      "sourceName": "AAMC scholarship submissions",
+      "sourceUrl": "https://www.aamc.org/about-us/medical-education/scholarship-submissions",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "UME",
+        "GME",
+        "innovation",
+        "research"
+      ]
+    },
+    {
+      "id": "aamc-lsl-2027-reviewers",
+      "category": "conference",
+      "title": "Learn Serve Lead 2027 — Volunteer Abstract Reviewers",
+      "organization": "Association of American Medical Colleges",
+      "description": "AAMC seeks volunteer abstract reviewers for the Learn Serve Lead 2027 medical education call. Open to reviewers at all experience levels. Anticipated review period is 10 December 2026 – 7 January 2027.",
+      "deadline": "2026-10-26",
+      "deadlineNote": "11:59 p.m. PT",
+      "eventStart": "2027-11-12",
+      "eventEnd": "2027-11-16",
+      "location": "Washington, DC, USA",
+      "region": "North America",
+      "status": "open",
+      "url": "https://www.aamc.org/about-us/medical-education/scholarship-submissions",
+      "sourceName": "AAMC scholarship submissions",
+      "sourceUrl": "https://www.aamc.org/about-us/medical-education/scholarship-submissions",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "reviewer",
+        "service"
+      ]
+    },
+    {
+      "id": "iamse-2027-orals-posters",
+      "category": "conference",
+      "title": "IAMSE 2027 — Poster and Oral Abstract Submissions",
+      "organization": "International Association of Medical Science Educators",
+      "description": "Call for poster and oral abstracts for the 31st Annual IAMSE Conference, themed “Stronger Together: From Myths to Evidence in the Evolving Landscape of Health Science Education.” Author notifications are expected in March 2027.",
+      "deadline": "2026-12-01",
+      "deadlineNote": "11:59 p.m. EDT",
+      "eventStart": "2027-06-05",
+      "eventEnd": "2027-06-08",
+      "location": "Bellevue, Washington, USA",
+      "region": "North America",
+      "status": "open",
+      "url": "https://www.iamse.org/annual-conference/",
+      "sourceName": "IAMSE annual conference",
+      "sourceUrl": "https://www.iamse.org/annual-conference/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "basic science",
+        "HPE",
+        "abstracts"
+      ]
+    },
+    {
+      "id": "iamse-2027-focus-sessions",
+      "category": "conference",
+      "title": "IAMSE 2027 — Focus Session Abstracts",
+      "organization": "International Association of Medical Science Educators",
+      "description": "90-minute Focus Sessions for small-group interactive discussion. No more than one-third of the time may be lecture. Multi-institutional and interprofessional submissions are encouraged. Deadline was 1 September 2026.",
+      "deadline": "2026-09-01",
+      "deadlineNote": "11:59 p.m. EDT",
+      "eventStart": "2027-06-05",
+      "eventEnd": "2027-06-08",
+      "location": "Bellevue, Washington, USA",
+      "region": "North America",
+      "status": "closed",
+      "url": "https://www.iamse.org/call-for-iamse27-focus-session-abstracts-due-september-1-2026/",
+      "sourceName": "IAMSE",
+      "sourceUrl": "https://www.iamse.org/call-for-iamse27-focus-session-abstracts-due-september-1-2026/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "workshops",
+        "faculty development"
+      ]
+    },
+    {
+      "id": "apmec-2027",
+      "category": "conference",
+      "title": "APMEC 2027 — Asia Pacific Medical Education Conference",
+      "organization": "NUS Centre for Medical Education",
+      "description": "Workshop/symposium/panel proposals were due 15 April 2026; oral presentation abstracts were due 3 June 2026. The conference itself remains a major Asia-Pacific gathering for health professions educators.",
+      "deadline": "2026-06-03",
+      "eventStart": "2027-01-13",
+      "eventEnd": "2027-01-16",
+      "location": "Kyoto, Japan",
+      "region": "Asia-Pacific",
+      "status": "closed",
+      "url": "https://medicine.nus.edu.sg/cenmed/sites/apmec2027/index.html",
+      "sourceName": "APMEC 2027 official site",
+      "sourceUrl": "https://medicine.nus.edu.sg/cenmed/sites/apmec2027/index.html",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "Asia-Pacific",
+        "workshops"
+      ]
+    },
+    {
+      "id": "amee-2027-helsinki",
+      "category": "conference",
+      "title": "AMEE Conference 2027 — Helsinki",
+      "organization": "AMEE – The International Association for Health Professions Education",
+      "description": "AMEE’s 2027 annual conference will be held in Helsinki, Finland, 28 August – 1 September 2027, including the Integrated Ottawa Event. Full registration and abstract-call details are still being posted by AMEE.",
+      "eventStart": "2027-08-28",
+      "eventEnd": "2027-09-01",
+      "location": "Helsinki, Finland",
+      "region": "Europe",
+      "status": "upcoming",
+      "url": "https://amee.org/events/",
+      "sourceName": "AMEE events",
+      "sourceUrl": "https://amee.org/events/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "HPE",
+        "international"
+      ]
+    },
+    {
+      "id": "icre-2026-ottawa",
+      "category": "conference",
+      "title": "ICRE 2026 — International Conference on Residency Education",
+      "organization": "Royal College of Physicians and Surgeons of Canada",
+      "description": "World’s largest conference devoted to residency education. 2026 theme: “Thriving in Uncertainty: Residency Education in a World of Change.” Abstract submissions closed 14 January 2026. Early-bird registration has been advertised.",
+      "deadline": "2026-01-14",
+      "eventStart": "2026-10-22",
+      "eventEnd": "2026-10-24",
+      "location": "Ottawa, Ontario, Canada",
+      "region": "North America",
+      "status": "closed",
+      "url": "https://icre.royalcollege.ca/content/icre/ca/en/program/call-for-abstracts.html",
+      "sourceName": "ICRE / Royal College",
+      "sourceUrl": "https://icre.royalcollege.ca/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "GME",
+        "residency"
+      ]
+    },
+    {
+      "id": "icre-2027-halifax",
+      "category": "conference",
+      "title": "ICRE 2027 — Halifax",
+      "organization": "Royal College of Physicians and Surgeons of Canada",
+      "description": "ICRE returns to Halifax, Nova Scotia, 28–30 October 2027. The call for abstracts has not yet been posted on the conference site.",
+      "eventStart": "2027-10-28",
+      "eventEnd": "2027-10-30",
+      "location": "Halifax, Nova Scotia, Canada",
+      "region": "North America",
+      "status": "upcoming",
+      "url": "https://icre.royalcollege.ca/content/icre/ca/en/about/past-and-future-conferences.html",
+      "sourceName": "ICRE / Royal College",
+      "sourceUrl": "https://icre.royalcollege.ca/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "GME",
+        "residency"
+      ]
+    },
+    {
+      "id": "aamc-lsl-2026-anaheim",
+      "category": "conference",
+      "title": "Learn Serve Lead 2026 — AAMC Annual Meeting",
+      "organization": "Association of American Medical Colleges",
+      "description": "AAMC’s 150th anniversary annual meeting in Anaheim. Registration is open. Medical education scholarship submissions for this meeting have closed; the 2027 call is now the active submission cycle.",
+      "eventStart": "2026-11-06",
+      "eventEnd": "2026-11-10",
+      "location": "Anaheim, California, USA",
+      "region": "North America",
+      "status": "upcoming",
+      "url": "https://www.aamc.org/learn-network/learn-serve-lead",
+      "sourceName": "AAMC Learn Serve Lead",
+      "sourceUrl": "https://www.aamc.org/learn-network/learn-serve-lead",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "academic medicine"
+      ]
+    },
+    {
+      "id": "aamc-emerging-tech-2027",
+      "category": "conference",
+      "title": "2027 Emerging Technologies for Teaching and Learning",
+      "organization": "Association of American Medical Colleges",
+      "description": "Conference on creative approaches, emerging technologies, and innovative teaching practices across the health professions. Digital demonstrations call closed 14 August 2026.",
+      "deadline": "2026-08-14",
+      "eventStart": "2027-04-06",
+      "eventEnd": "2027-04-08",
+      "location": "Arlington, Virginia, USA",
+      "region": "North America",
+      "status": "closed",
+      "url": "https://www.aamc.org/about-us/medical-education",
+      "sourceName": "AAMC Medical Education",
+      "sourceUrl": "https://www.aamc.org/about-us/medical-education",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "technology",
+        "teaching"
+      ]
+    },
+    {
+      "id": "sotl-commons-2027",
+      "category": "conference",
+      "title": "SoTL Commons Conference 2027",
+      "organization": "Georgia Southern University",
+      "description": "Scholarship of Teaching and Learning commons conference. Call opens August 2026 with a 23 October 2026 deadline, per the University of Saskatchewan MedEd conference listing compiled from organizer pages.",
+      "deadline": "2026-10-23",
+      "eventStart": "2027-03-03",
+      "eventEnd": "2027-03-05",
+      "location": "Savannah, Georgia, USA",
+      "region": "North America",
+      "status": "open",
+      "url": "https://academics.georgiasouthern.edu/sotlcommons/",
+      "sourceName": "University of Saskatchewan MedEd conference listings",
+      "sourceUrl": "https://medicine.usask.ca/facultydev/fd%20events/meded-conference-listings.php",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "SoTL"
+      ]
+    },
+    {
+      "id": "stfm-2027-spring",
+      "category": "conference",
+      "title": "STFM Annual Spring Conference 2027",
+      "organization": "Society of Teachers of Family Medicine",
+      "description": "STFM’s annual spring meeting for family medicine educators. Abstract deadline not yet posted on the compiled 2027 listing.",
+      "eventStart": "2027-04-30",
+      "eventEnd": "2027-05-05",
+      "location": "Chicago, Illinois, USA",
+      "region": "North America",
+      "status": "upcoming",
+      "url": "https://www.stfm.org/",
+      "sourceName": "University of Saskatchewan MedEd conference listings",
+      "sourceUrl": "https://medicine.usask.ca/facultydev/fd%20events/meded-conference-listings.php",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "family medicine"
+      ]
+    },
+    {
+      "id": "sacme-2027",
+      "category": "conference",
+      "title": "SACME Annual Meeting 2027",
+      "organization": "Society for Academic Continuing Medical Education",
+      "description": "Annual meeting of continuing medical education scholars and leaders. Abstract deadline listed as TBA.",
+      "eventStart": "2027-05-02",
+      "eventEnd": "2027-05-05",
+      "location": "Montreal, Quebec, Canada",
+      "region": "North America",
+      "status": "upcoming",
+      "url": "https://sacme.org/",
+      "sourceName": "University of Saskatchewan MedEd conference listings",
+      "sourceUrl": "https://medicine.usask.ca/facultydev/fd%20events/meded-conference-listings.php",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "CME",
+        "CPD"
+      ]
+    },
+    {
+      "id": "fmf-2026",
+      "category": "conference",
+      "title": "Family Medicine Forum 2026",
+      "organization": "College of Family Physicians of Canada",
+      "description": "Canada’s national family medicine conference. Abstract deadline for 2026 is closed.",
+      "eventStart": "2026-11-11",
+      "eventEnd": "2026-11-14",
+      "location": "Toronto, Ontario, Canada",
+      "region": "North America",
+      "status": "upcoming",
+      "url": "https://fmf.cfpc.ca/",
+      "sourceName": "University of Saskatchewan MedEd conference listings",
+      "sourceUrl": "https://medicine.usask.ca/facultydev/fd%20events/meded-conference-listings.php",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "family medicine"
+      ]
+    },
+    {
+      "id": "issotl-2026",
+      "category": "conference",
+      "title": "ISSOTL 2026 Conference",
+      "organization": "International Society for the Scholarship of Teaching and Learning",
+      "description": "International SoTL conference, relevant to medical and health professions educators working on teaching scholarship.",
+      "eventStart": "2026-10-28",
+      "eventEnd": "2026-10-31",
+      "location": "Saskatoon, Saskatchewan, Canada",
+      "region": "North America",
+      "status": "upcoming",
+      "url": "https://issotl.com/",
+      "sourceName": "University of Saskatchewan MedEd conference listings",
+      "sourceUrl": "https://medicine.usask.ca/facultydev/fd%20events/meded-conference-listings.php",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "SoTL"
+      ]
+    },
+    {
+      "id": "gold-chapter-grants-2026",
+      "category": "grant",
+      "title": "Gold Humanism Honor Society Chapter Grants 2026",
+      "organization": "The Arnold P. Gold Foundation",
+      "description": "GHHS chapter grants support chapter growth, innovation, and collaboration. The 2026 application window is 16 September – 30 October 2026.",
+      "deadline": "2026-10-30",
+      "region": "North America",
+      "eligibility": "Gold Humanism Honor Society chapters",
+      "status": "open",
+      "url": "https://gold-foundation.org/programs/ghhs/chapter-grants-application-process/",
+      "sourceName": "Gold Foundation",
+      "sourceUrl": "https://gold-foundation.org/programs/ghhs/chapter-grants-application-process/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "humanism",
+        "GME",
+        "UME"
+      ]
+    },
+    {
+      "id": "asme-phd-doctoral-grants-2026",
+      "category": "grant",
+      "title": "ASME PhD / Doctoral Grants",
+      "organization": "Association for the Study of Medical Education",
+      "description": "Doctoral studentship support (stipend plus consumables) and Annual Scholarship Meeting registration to present the work. Intended for applicants without a PhD who will undertake health professions education research.",
+      "deadline": "2026-10-29",
+      "region": "United Kingdom / international ASME members",
+      "eligibility": "Those without PhDs, aligned with ASME doctoral funding rules",
+      "amount": "Studentship stipend plus consumables and ASM registration",
+      "status": "open",
+      "url": "https://www.asme.org.uk/awards/",
+      "sourceName": "ASME Awards",
+      "sourceUrl": "https://www.asme.org.uk/awards/",
+      "collectedAt": "2026-09-23",
+      "tags": [
+        "doctoral",
+        "research"
+      ]
+    },
+    {
+      "id": "nbme-emerging-innovators-2026",
+      "category": "grant",
+      "title": "NBME Emerging Innovators Grants 2026",
+      "organization": "National Board of Medical Examiners",
+      "description": "Supports early- and mid-career faculty, researchers, and program leaders. 2026 theme: Promoting Equitable and Innovative Assessment in Medical Education. Up to four awards of up to $25,000 for 1–2 year projects. Cycle closed 15 June 2026.",
+      "deadline": "2026-06-15",
+      "region": "United States",
+      "amount": "Up to USD 25,000",
+      "eligibility": "PIs at LCME- or AOA/COCA-accredited medical schools or GME training facilities",
+      "status": "closed",
+      "url": "https://www.nbme.org/contributions/assessment/emerging-innovators-grants/",
+      "sourceName": "NBME",
+      "sourceUrl": "https://www.nbme.org/news/applications-open-two-medical-education-assessment-grant-programs-2026-emerging-innovators-and/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "assessment",
+        "equity",
+        "innovation"
+      ]
+    },
+    {
+      "id": "nbme-stemmler-2027",
+      "category": "grant",
+      "title": "NBME Stemmler Grants — 2027 cycle",
+      "organization": "National Board of Medical Examiners",
+      "description": "Edward J. Stemmler, M.D. Medical Education Research Grant Program for mid- and senior-career researchers developing innovative assessment methodologies. Up to three awards of up to $150,000. Letters of intent for the 2027 cycle were due 29 June 2026; invited full proposals follow in early 2027.",
+      "deadline": "2026-06-29",
+      "region": "United States",
+      "amount": "Up to USD 150,000",
+      "eligibility": "PIs with appointments at LCME- or AOA/COCA-accredited medical schools",
+      "status": "closed",
+      "url": "https://www.nbme.org/contributions/assessment/stemmler-grants/",
+      "sourceName": "NBME Stemmler Grants",
+      "sourceUrl": "https://www.nbme.org/contributions/assessment/stemmler-grants/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "assessment",
+        "research"
+      ]
+    },
+    {
+      "id": "macy-fairness-clinical-assessment-2026",
+      "category": "grant",
+      "title": "Macy Foundation RFA — Ensuring Fairness in Clinical Assessment",
+      "organization": "Josiah Macy Jr. Foundation",
+      "description": "Three two-year demonstration projects in medicine or nursing education to design, implement, and evaluate strategies for fairer clinical assessment, aligned with the 2022 Macy Conference recommendations. Letters of intent were due 30 March 2026; invited full applications 17 July 2026. Awards announced after the 21 October 2026 board meeting. Project period 1 November 2026 – 31 October 2028.",
+      "deadline": "2026-07-17",
+      "region": "United States",
+      "amount": "USD 200,000 over two years (3 awards)",
+      "eligibility": "Schools of medicine and nursing",
+      "status": "closed",
+      "url": "https://macyfoundation.org/our-grantees/ensuring-fairness-in-clinical-assessment",
+      "sourceName": "Josiah Macy Jr. Foundation",
+      "sourceUrl": "https://macyfoundation.org/our-grantees/ensuring-fairness-in-clinical-assessment",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "assessment",
+        "nursing",
+        "equity"
+      ]
+    },
+    {
+      "id": "intealth-wellbeing-grant-2026",
+      "category": "grant",
+      "title": "Intealth 2026 Well-being Grant (IMG physicians in U.S. GME)",
+      "organization": "Intealth",
+      "description": "Funding for projects supporting international medical graduate physician well-being in U.S. graduate medical education. Faculty-led proposals must include an IMG resident mentee or collaborator. Deadline extended to 14 September 2026 and is now closed.",
+      "deadline": "2026-09-14",
+      "region": "United States",
+      "amount": "Up to USD 5,000",
+      "eligibility": "IMG residents or faculty at U.S. GME programs that include IMG residents",
+      "status": "closed",
+      "url": "https://www.intealth.org/",
+      "sourceName": "Intealth",
+      "sourceUrl": "https://www.intealth.org/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "well-being",
+        "IMG",
+        "GME"
+      ]
+    },
+    {
+      "id": "asme-small-grants-2026",
+      "category": "grant",
+      "title": "ASME Small Grants",
+      "organization": "Association for the Study of Medical Education",
+      "description": "Research funding of up to £5,000 per project for individual ASME members. First-time applicants for research funding are welcome. The 2026 round closed 12 May 2026; ASME lists the next round as opening soon.",
+      "deadline": "2026-05-12",
+      "region": "United Kingdom / ASME members",
+      "amount": "Up to £5,000",
+      "eligibility": "Individual ASME members",
+      "status": "closed",
+      "url": "https://www.asme.org.uk/awards/",
+      "sourceName": "ASME Awards",
+      "sourceUrl": "https://www.asme.org.uk/awards/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "research",
+        "small grant"
+      ]
+    },
+    {
+      "id": "eafri-2027",
+      "category": "grant",
+      "title": "Eastern Africa FAIMER Regional Institute — 2027 Fellowship",
+      "organization": "FAIMER / Intealth (Makerere University & MUST)",
+      "description": "Two-year, part-time online fellowship in education methods, leadership, scholarship, and project evaluation for health professions faculty in East Africa. 2026 applications are closed. Applications for the 2027 program open in February 2027.",
+      "deadlineNote": "Applications open February 2027; exact close date TBA",
+      "region": "East Africa",
+      "eligibility": "Health professions faculty in East Africa (and other African regions considered)",
+      "status": "upcoming",
+      "url": "https://apply.faimer.org/prog/eafri/",
+      "sourceName": "FAIMER application portal",
+      "sourceUrl": "https://apply.faimer.org/prog/eafri/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "fellowship",
+        "faculty development"
+      ]
+    },
+    {
+      "id": "picker-gold-gme",
+      "category": "grant",
+      "title": "Picker Gold Challenge Grants for Residency Training",
+      "organization": "The Arnold P. Gold Foundation",
+      "description": "18-month grants of $15,000–$25,000 for GME interventions that put patient-centered care at the center of residency education, with a required institutional match. The 2023–2025 window is closed; watch the Gold Foundation page for the next cycle.",
+      "region": "North America",
+      "amount": "USD 15,000–25,000 (18 months, 1:1 match)",
+      "eligibility": "GME programs; letter of support from department chair or DIO",
+      "status": "upcoming",
+      "url": "https://gold-foundation.org/programs/picker-gold-challenge-grants-for-residency-training/",
+      "sourceName": "Gold Foundation",
+      "sourceUrl": "https://gold-foundation.org/programs/picker-gold-challenge-grants-for-residency-training/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "GME",
+        "patient-centered care"
+      ]
+    },
+    {
+      "id": "asme-tct-new-voices-2026",
+      "category": "award",
+      "title": "The Clinical Teacher “New Voices in Health Professions Education” Award",
+      "organization": "Association for the Study of Medical Education",
+      "description": "Career-development award for early-career health professions educators and researchers seeking skills in peer review and writing papers. Open for submissions; closes 1 October 2026.",
+      "deadline": "2026-10-01",
+      "region": "International",
+      "eligibility": "Early-career HPE educators and researchers",
+      "status": "open",
+      "url": "https://www.asme.org.uk/awards/",
+      "sourceName": "ASME Awards",
+      "sourceUrl": "https://www.asme.org.uk/awards/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "early career",
+        "publishing"
+      ]
+    },
+    {
+      "id": "jasme-group-innovation-2026",
+      "category": "award",
+      "title": "JASME Group Innovation Prize",
+      "organization": "ASME / JASME",
+      "description": "For a group of medical students and/or Foundation doctors who have developed an innovative project in medical education. £300, a certificate, and complimentary registration for one team member to the JASME conference.",
+      "deadline": "2026-10-15",
+      "region": "United Kingdom",
+      "amount": "£300 plus JASME conference registration for one team member",
+      "eligibility": "Medical students and/or Foundation doctors (group)",
+      "status": "open",
+      "url": "https://www.asme.org.uk/awards/",
+      "sourceName": "ASME Awards",
+      "sourceUrl": "https://www.asme.org.uk/awards/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "students",
+        "innovation"
+      ]
+    },
+    {
+      "id": "jasme-individual-innovation-2026",
+      "category": "award",
+      "title": "JASME Individual Innovation Prize",
+      "organization": "ASME / JASME",
+      "description": "For medical students and Foundation-year doctors who have started a project. £300 in each category, a certificate, and complimentary registration for one winner per category at the next JASME conference.",
+      "deadline": "2026-10-15",
+      "region": "United Kingdom",
+      "amount": "£300 plus JASME conference registration",
+      "eligibility": "Medical students and Foundation-year doctors",
+      "status": "open",
+      "url": "https://www.asme.org.uk/awards/",
+      "sourceName": "ASME Awards",
+      "sourceUrl": "https://www.asme.org.uk/awards/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "students",
+        "innovation"
+      ]
+    },
+    {
+      "id": "asme-gold-medal-2026",
+      "category": "award",
+      "title": "ASME Gold Medal",
+      "organization": "Association for the Study of Medical Education",
+      "description": "For highly experienced scholars. Lifetime ASME membership and ASM plenary speaker slot, including registration and travel expenses.",
+      "deadline": "2026-11-10",
+      "region": "International",
+      "eligibility": "Highly experienced scholars",
+      "status": "open",
+      "url": "https://www.asme.org.uk/awards/",
+      "sourceName": "ASME Awards",
+      "sourceUrl": "https://www.asme.org.uk/awards/",
+      "collectedAt": "2026-09-23",
+      "tags": [
+        "senior scholar"
+      ]
+    },
+    {
+      "id": "asme-presidents-medal",
+      "category": "award",
+      "title": "ASME President’s Medal",
+      "organization": "Association for the Study of Medical Education",
+      "description": "For highly experienced scholars, leaders, managers and/or policy makers. President’s medal and lifetime ASME membership. Listed as open for submissions.",
+      "region": "International",
+      "eligibility": "Highly experienced scholars, leaders, managers, policy makers",
+      "status": "open",
+      "url": "https://www.asme.org.uk/awards/",
+      "sourceName": "ASME Awards",
+      "sourceUrl": "https://www.asme.org.uk/awards/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "asme-mime-research-2026",
+      "category": "award",
+      "title": "Mindfulness in Medical Education Research Award",
+      "organization": "ASME MiME group",
+      "description": "For undergraduate students, postgraduate students/trainees, and healthcare professionals undertaking research related to mindfulness and wellbeing in medical education. £1,000 plus opportunities to present at ASME/MiME events.",
+      "deadline": "2026-11-18",
+      "region": "International",
+      "amount": "£1,000",
+      "status": "open",
+      "url": "https://www.asme.org.uk/awards/",
+      "sourceName": "ASME Awards",
+      "sourceUrl": "https://www.asme.org.uk/awards/",
+      "collectedAt": "2026-09-23",
+      "tags": [
+        "well-being",
+        "research"
+      ]
+    },
+    {
+      "id": "iamse-travel-award-2027",
+      "category": "award",
+      "title": "IAMSE 2027 Travel Awards",
+      "organization": "International Association of Medical Science Educators",
+      "description": "Travel awards for junior faculty and students to attend the IAMSE Annual Conference. Faculty awards are up to $1,500 toward registration, lodging, and airfare. Applications due 15 December 2026; notifications in March 2027.",
+      "deadline": "2026-12-15",
+      "eventStart": "2027-06-05",
+      "eventEnd": "2027-06-08",
+      "location": "Bellevue, Washington, USA",
+      "region": "International",
+      "amount": "Up to USD 1,500 (faculty)",
+      "eligibility": "Junior faculty and students; typically with an accepted presentation",
+      "status": "open",
+      "url": "https://www.iamse.org/iamse-awards-2/",
+      "sourceName": "IAMSE Awards / Annual Conference",
+      "sourceUrl": "https://www.iamse.org/annual-conference/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "travel",
+        "junior faculty",
+        "students"
+      ]
+    },
+    {
+      "id": "asme-asm-communication-2027",
+      "category": "award",
+      "title": "ASME ASM Communication Prize",
+      "organization": "Association for the Study of Medical Education",
+      "description": "For ASME individual members presenting at the Annual Scholarship Meeting. Winner receives a copy of an ASME textbook and a certificate.",
+      "deadline": "2027-01-12",
+      "region": "International",
+      "eligibility": "ASME individual members",
+      "status": "open",
+      "url": "https://www.asme.org.uk/awards/",
+      "sourceName": "ASME Awards",
+      "sourceUrl": "https://www.asme.org.uk/awards/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "ASM",
+        "presentation"
+      ]
+    },
+    {
+      "id": "aamc-excellence-meded",
+      "category": "award",
+      "title": "AAMC Award for Excellence in Medical Education",
+      "organization": "Association of American Medical Colleges",
+      "description": "AAMC’s most prestigious medical education honor (formerly the Abraham Flexner Award). $10,000 prize. 2026 cycle: finalist letters of support were due 3 April 2026; winner notification by 31 July 2026. Watch AAMC for the next nomination round.",
+      "deadline": "2026-04-03",
+      "region": "North America",
+      "amount": "USD 10,000",
+      "eligibility": "Faculty appointment at AAMC-member medical schools or health systems; individual or team of two",
+      "status": "closed",
+      "url": "https://www.aamc.org/about-us/aamc-awards/excellence",
+      "sourceName": "AAMC Awards",
+      "sourceUrl": "https://www.aamc.org/about-us/aamc-awards/excellence",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "national impact",
+        "scholarship"
+      ]
+    },
+    {
+      "id": "amee-aspire-2026",
+      "category": "award",
+      "title": "AMEE ASPIRE Awards 2026",
+      "organization": "AMEE",
+      "description": "Institutional excellence awards in nine categories, including assessment, curriculum, faculty development, simulation, social accountability, student engagement, and technology-enhanced learning. 2026 applications closed 28 February 2026.",
+      "deadline": "2026-02-28",
+      "region": "International",
+      "eligibility": "Health professions education institutions; application fee applies",
+      "status": "closed",
+      "url": "https://amee.org/awards-and-grants/aspire-awards/categories/",
+      "sourceName": "AMEE ASPIRE",
+      "sourceUrl": "https://amee.org/awards-and-grants/aspire-awards/categories/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "institutional",
+        "ASPIRE"
+      ]
+    },
+    {
+      "id": "bmc-psychiatric-education",
+      "category": "journal",
+      "title": "Psychiatric education and its challenges",
+      "organization": "BMC Medical Education",
+      "description": "Collection on barriers and innovations in psychiatry training: stigma, curricula, clinical exposure, and regional resource disparities. Original research invited.",
+      "deadline": "2026-09-30",
+      "region": "International",
+      "status": "open",
+      "url": "https://link.springer.com/collections/hjhiagdbaj",
+      "sourceName": "BMC Medical Education collections",
+      "sourceUrl": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "psychiatry",
+        "curriculum"
+      ]
+    },
+    {
+      "id": "bmc-disability-meded",
+      "category": "journal",
+      "title": "Disability in medical education",
+      "organization": "BMC Medical Education",
+      "description": "Collection on how medical curricula can address gaps in knowledge, skills, and attitudes related to disability in patients and in the profession.",
+      "deadline": "2026-12-07",
+      "region": "International",
+      "status": "open",
+      "url": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "sourceName": "BMC Medical Education collections",
+      "sourceUrl": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "disability",
+        "inclusion"
+      ]
+    },
+    {
+      "id": "bmc-gamification-vr-ii",
+      "category": "journal",
+      "title": "Gamification and virtual reality in medical education — Part II",
+      "organization": "BMC Medical Education",
+      "description": "Follow-on collection on digital teaching, gamification, and VR in medical and related healthcare professions education.",
+      "deadline": "2027-01-11",
+      "region": "International",
+      "status": "open",
+      "url": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "sourceName": "BMC Medical Education collections",
+      "sourceUrl": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "simulation",
+        "VR",
+        "technology"
+      ]
+    },
+    {
+      "id": "bmc-nutrition-hpe",
+      "category": "journal",
+      "title": "Nutrition science in health professions education",
+      "organization": "BMC Medical Education / GNOME initiative",
+      "description": "Collection, in collaboration with the Global Nutrition Observatory for Medical Nutrition Education (GNOME), on nutrition science in health professions curricula.",
+      "deadline": "2027-01-13",
+      "region": "International",
+      "status": "open",
+      "url": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "sourceName": "BMC Medical Education collections",
+      "sourceUrl": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "nutrition",
+        "curriculum"
+      ]
+    },
+    {
+      "id": "bmc-lgbtq-health",
+      "category": "journal",
+      "title": "Medical education for LGBTQ+ health",
+      "organization": "BMC Medical Education",
+      "description": "Collection on preparing learners for the unique health needs of LGBTQ+ patients and on related curriculum, assessment, and faculty development.",
+      "deadline": "2027-01-15",
+      "region": "International",
+      "status": "open",
+      "url": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "sourceName": "BMC Medical Education collections",
+      "sourceUrl": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "LGBTQ+",
+        "curriculum"
+      ]
+    },
+    {
+      "id": "bmc-cbe-innovations",
+      "category": "journal",
+      "title": "Health professions competency-based education innovations around the world",
+      "organization": "BMC Medical Education",
+      "description": "International collection on implementing and evaluating competency-based education innovations across health professions.",
+      "deadline": "2027-01-29",
+      "region": "International",
+      "status": "open",
+      "url": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "sourceName": "BMC Medical Education collections",
+      "sourceUrl": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "CBE",
+        "international"
+      ]
+    },
+    {
+      "id": "bmc-disaster-preparedness",
+      "category": "journal",
+      "title": "Disaster preparedness in medical education",
+      "organization": "BMC Medical Education",
+      "description": "Collection on educating health professionals to respond to natural and man-made disasters.",
+      "deadline": "2027-03-11",
+      "region": "International",
+      "status": "open",
+      "url": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "sourceName": "BMC Medical Education collections",
+      "sourceUrl": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "disaster",
+        "emergency"
+      ]
+    },
+    {
+      "id": "bmc-health-communication",
+      "category": "journal",
+      "title": "Health communication in medical education",
+      "organization": "BMC Medical Education",
+      "description": "Collection on teaching health communication to bridge literacy gaps, empower patients, and support collaborative relationships with communities.",
+      "deadline": "2027-03-11",
+      "region": "International",
+      "status": "open",
+      "url": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "sourceName": "BMC Medical Education collections",
+      "sourceUrl": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "communication"
+      ]
+    },
+    {
+      "id": "bmc-programmatic-assessment",
+      "category": "journal",
+      "title": "Programmatic assessment",
+      "organization": "BMC Medical Education",
+      "description": "Collection on programmatic assessment as a structured approach to evaluating learner competencies across health professions education.",
+      "deadline": "2027-04-06",
+      "region": "International",
+      "status": "open",
+      "url": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "sourceName": "BMC Medical Education collections",
+      "sourceUrl": "https://bmcmededuc.biomedcentral.com/articles/collections",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "assessment"
+      ]
+    },
+    {
+      "id": "education-sciences-advances-meded",
+      "category": "journal",
+      "title": "Advances in Medical Education",
+      "organization": "Education Sciences (MDPI)",
+      "description": "Special issue on transformative and inclusive pedagogies, high-tech instructional tools, equity, and the human-centric values of medical education. Research, reviews, and short communications invited.",
+      "deadline": "2026-12-15",
+      "region": "International",
+      "status": "open",
+      "url": "https://www.mdpi.com/journal/education/special_issues/8FP5P166U2",
+      "sourceName": "Education Sciences special issues",
+      "sourceUrl": "https://www.mdpi.com/journal/education/special_issues/8FP5P166U2",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "pedagogy",
+        "equity",
+        "technology"
+      ]
+    },
+    {
+      "id": "mh-bmj-meaning-metaphor",
+      "category": "journal",
+      "title": "Medicine, Meaning and Metaphor: Arts and Humanities as essential partners in medical and healthcare training",
+      "organization": "Medical Humanities (BMJ) / Association for Medical Humanities",
+      "description": "Topic collection on arts and humanities methods in clinical training: meaning in clinical encounters, embodiment, illness, culture, and community. Argues for further arts and humanities teaching in medical schools and postgraduate education.",
+      "deadline": "2026-10-27",
+      "region": "International",
+      "status": "open",
+      "url": "https://amh.ac.uk/blog/medhums-bmj-new-call-for-papers/",
+      "sourceName": "Association for Medical Humanities",
+      "sourceUrl": "https://amh.ac.uk/blog/medhums-bmj-new-call-for-papers/",
+      "collectedAt": "2026-09-22",
+      "tags": [
+        "humanities",
+        "curriculum"
+      ]
+    }
+  ]
+}
