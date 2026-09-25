@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     template: "%s · MedEd Essentials",
   },
   description:
-    "News, conferences, grants, awards, and journal special issues in medical education, each with an official source.",
+    "News, conferences, grants, awards, journal special issues, and accreditation and policy updates in medical education, each with an official source.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
@@ -31,8 +31,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html
       lang="en"
       className={`${sourceSans.variable} ${newsreader.variable} h-full antialiased`}
+      suppressHydrationWarning
     >
-      <body className="min-h-full flex flex-col">
+      <body className="min-h-full flex flex-col" suppressHydrationWarning>
         <SiteHeader />
         <main className="flex-1">{children}</main>
         <SiteFooter />

@@ -6,6 +6,7 @@ const links = [
   { href: "/grants", label: "Grants" },
   { href: "/awards", label: "Awards" },
   { href: "/journals", label: "Journal: Special Issues" },
+  { href: "/policy", label: "Accreditation and Policy" },
   { href: "/sources", label: "Sources" },
 ];
 

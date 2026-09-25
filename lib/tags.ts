@@ -26,7 +26,6 @@ export const TAG_LABELS: Record<string, string> = {
   pediatrics: "Pediatrics",
   psychiatry: "Psychiatry",
   research: "Research",
-  reviewer: "Reviewer",
   simulation: "Simulation",
   sotl: "SoTL",
   students: "Students",

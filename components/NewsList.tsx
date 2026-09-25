@@ -1,7 +1,9 @@
 import { formatDate } from "@/lib/dates";
 import type { NewsItem } from "@/lib/types";
 
-export function NewsList({ items }: { items: NewsItem[] }) {
+type DatedItem = NewsItem & { effectiveDate?: string };
+
+export function NewsList({ items }: { items: DatedItem[] }) {
   return (
     <ol className="relative space-y-0 border-l border-line pl-6">
       {items.map((item) => (
@@ -21,6 +23,11 @@ export function NewsList({ items }: { items: NewsItem[] }) {
             </a>
           </h2>
           <p className="mt-1 text-sm text-muted">{item.organization}</p>
+          {item.effectiveDate ? (
+            <p className="mt-1 text-sm text-muted">
+              Takes effect {formatDate(item.effectiveDate)}
+            </p>
+          ) : null}
           <p className="mt-2 leading-relaxed text-ink/85">{item.summary}</p>
           <p className="mt-2 text-sm text-muted">
             Source:{" "}

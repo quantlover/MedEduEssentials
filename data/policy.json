@@ -1,0 +1,141 @@
+{
+  "generatedAt": "2026-09-23",
+  "methodology": "Each update is a brief summary of an official announcement or standards page from an accreditor, exam program, or international recognition body. The source URL is the page used at collection time. Dates and effective dates are copied from those pages, not inferred.",
+  "items": [
+    {
+      "id": "lcme-fs-2028-29-webinars",
+      "title": "LCME Connecting webinars tour the 2028–29 Functions and Structure",
+      "summary": "The LCME Secretariat dedicated its September and October 2026 Connecting webinars to a high-level tour of the 2028–29 Functions and Structure of a Medical School. LCME.org remains the official source for standards, Rules of Procedure, and related publications (now under Resources, Schools, and Survey Teams rather than a single publications list).",
+      "publishedAt": "2026-09-23",
+      "organization": "Liaison Committee on Medical Education",
+      "bodies": [
+        "lcme"
+      ],
+      "url": "https://lcme.org/",
+      "sourceName": "LCME",
+      "sourceUrl": "https://lcme.org/",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "usmle-step3-standard-2026-09-02",
+      "title": "USMLE schedules review of the Step 3 passing standard",
+      "summary": "The USMLE Management Committee will review the Step 3 passing standard at its November 2026 meeting. The review uses content-based standard-setting panels, stakeholder surveys, examinee-performance trends, and score-precision analyses. If the committee changes the standard, it would apply to examinees testing on or after 1 January 2027.",
+      "publishedAt": "2026-09-02",
+      "effectiveDate": "2027-01-01",
+      "organization": "United States Medical Licensing Examination",
+      "bodies": [
+        "usmle"
+      ],
+      "url": "https://www.usmle.org/scheduled-review-usmle-step-3-passing-standard-0",
+      "sourceName": "USMLE",
+      "sourceUrl": "https://www.usmle.org/scheduled-review-usmle-step-3-passing-standard-0",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "acgme-milestones-carceral-hcalm-2026-08-31",
+      "title": "ACGME releases Milestones for correctional medicine and health care administration",
+      "summary": "ACGME announced that Milestones are available for correctional (carceral) medicine and for health care administration, leadership, and management. Programs began using the new Milestones in August 2026, with first reporting in January 2027. Supplemental Guides are posted with the Sponsoring Institution-based fellowships materials.",
+      "publishedAt": "2026-08-31",
+      "effectiveDate": "2026-08-01",
+      "organization": "Accreditation Council for Graduate Medical Education",
+      "bodies": [
+        "acgme"
+      ],
+      "url": "https://www.acgme.org/newsroom/e-communication/2026/august-31-2026/",
+      "sourceName": "ACGME e-Communication",
+      "sourceUrl": "https://www.acgme.org/newsroom/e-communication/2026/august-31-2026/",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "acgme-cloud-accreditation-2026-08-24",
+      "title": "ACGME Cloud Accreditation will replace ADS in July 2027",
+      "summary": "ACGME announced ACGME Cloud Accreditation as the next product on the ACGME Cloud platform. It is expected to launch in July 2027 and replace the Accreditation Data System (ADS) for accreditation and recognition activities, while keeping core functions and historical records. ACGME says it will share training and role-specific updates before launch.",
+      "publishedAt": "2026-08-24",
+      "effectiveDate": "2027-07-01",
+      "organization": "Accreditation Council for Graduate Medical Education",
+      "bodies": [
+        "acgme"
+      ],
+      "url": "https://www.acgme.org/newsroom/2026/8/acgme-introduces-acgme-cloud-accreditation/",
+      "sourceName": "ACGME Newsroom",
+      "sourceUrl": "https://www.acgme.org/newsroom/2026/8/acgme-introduces-acgme-cloud-accreditation/",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "usmle-dtd-2029-2026-08-06",
+      "title": "USMLE Designated Testing Dates now expected in January 2029",
+      "summary": "USMLE FAQs updated 6 August 2026 state that the move from on-demand Step exams to Designated Testing Dates is expected in January 2029, later than the 2028 start described in the June 2026 announcement. The three Step exams will be offered on a limited number of dates; eligibility rules in the Bulletin of Information are unchanged. Examinees should keep scheduling through Prometric until the transition.",
+      "publishedAt": "2026-08-06",
+      "effectiveDate": "2029-01-01",
+      "organization": "United States Medical Licensing Examination",
+      "bodies": [
+        "usmle"
+      ],
+      "url": "https://www.usmle.org/usmle-designated-testing-dates-faqs",
+      "sourceName": "USMLE Designated Testing Dates FAQs",
+      "sourceUrl": "https://www.usmle.org/usmle-designated-testing-dates-faqs",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "usmle-step2-ck-passing-218",
+      "title": "USMLE Step 2 CK passing score is 218 as of 1 July 2025",
+      "summary": "The USMLE scoring page lists current minimum passing scores: Step 1 pass/fail (standard 196 on the three-digit scale for exams on or after 26 January 2022), Step 2 CK 218 for exams on or after 1 July 2025, and Step 3 200 for exams on or after 1 January 2024. The Management Committee reviews each Step’s passing standard about every three to four years.",
+      "publishedAt": "2025-07-01",
+      "effectiveDate": "2025-07-01",
+      "organization": "United States Medical Licensing Examination / National Board of Medical Examiners",
+      "bodies": [
+        "usmle",
+        "nbme"
+      ],
+      "url": "https://www.usmle.org/scores-transcripts/examination-results-and-scoring",
+      "sourceName": "USMLE examination results and scoring",
+      "sourceUrl": "https://www.usmle.org/scores-transcripts/examination-results-and-scoring",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "wfme-recognition-criteria-2025",
+      "title": "WFME Recognition Programme criteria took effect 1 January 2025",
+      "summary": "In April 2024 WFME revised its Basic Medical Education Recognition Criteria. The new version took effect on 1 January 2025 and applies to newly applying agencies and those seeking renewal of Recognition Status after that date. WFME recognizes accrediting agencies, not individual medical schools.",
+      "publishedAt": "2025-01-01",
+      "effectiveDate": "2025-01-01",
+      "organization": "World Federation for Medical Education",
+      "bodies": [
+        "wfme"
+      ],
+      "url": "https://wfme.org/recognition/bme-recognition/bme-recognition-criteria/",
+      "sourceName": "WFME BME Recognition Criteria",
+      "sourceUrl": "https://wfme.org/recognition/bme-recognition/bme-recognition-criteria/",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "intealth-recognized-accreditation-2024-11-20",
+      "title": "Intealth begins reporting which schools meet Recognized Accreditation",
+      "summary": "On 20 November 2024 Intealth announced that implementation of its Recognized Accreditation Policy had begun. A school currently meets the policy if it is accredited by an agency recognized by WFME or the U.S. National Committee on Foreign Medical Education and Accreditation (NCFMEA) and has an ECFMG Sponsor Note in the World Directory of Medical Schools. Intealth states the policy is informational and does not change an individual’s eligibility for ECFMG Certification. A general policy statement was scheduled for ECFMG Status Reports starting with the 2026 ERAS season (fall 2025).",
+      "publishedAt": "2024-11-20",
+      "effectiveDate": "2024-11-20",
+      "organization": "Intealth (ECFMG / FAIMER)",
+      "bodies": [
+        "intealth"
+      ],
+      "url": "https://www.intealth.org/news/2024/11/20/intealth-implements-recognized-accreditation-policy/",
+      "sourceName": "Intealth News",
+      "sourceUrl": "https://www.intealth.org/news/2024/11/20/intealth-implements-recognized-accreditation-policy/",
+      "collectedAt": "2026-09-23"
+    },
+    {
+      "id": "aamc-foundational-competencies-core-epas-2024-12",
+      "title": "AAMC, AACOM, and ACGME release Foundational Competencies; Core EPAs under review",
+      "summary": "In December 2024, AAMC, AACOM, and ACGME published Foundational Competencies for Undergraduate Medical Education: expected outcomes for all U.S. medical students across professionalism, patient care and procedural skills, medical knowledge, practice-based learning and improvement, interpersonal and communication skills, and systems-based practice. AAMC’s CBME page states that use of the 2014 Core Entrustable Professional Activities for Entering Residency (13 EPAs; 10-school pilot 2014–2021) is currently being evaluated in light of that 2024 release.",
+      "publishedAt": "2024-12-12",
+      "organization": "Association of American Medical Colleges (with AACOM and ACGME)",
+      "bodies": [
+        "aamc",
+        "acgme"
+      ],
+      "url": "https://www.aamc.org/about-us/medical-education/cbme",
+      "sourceName": "AAMC Competency-Based Medical Education",
+      "sourceUrl": "https://www.aamc.org/about-us/medical-education/cbme",
+      "collectedAt": "2026-09-23"
+    }
+  ]
+}

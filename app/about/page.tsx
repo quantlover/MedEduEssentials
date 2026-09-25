@@ -12,10 +12,11 @@ export default function AboutPage() {
           research in medical and health professions education.
         </p>
         <p>
-          Use it to scan recent news and to find open conference calls, grants,
-          awards, and journal special issues. Each listing includes a link to
-          the official page, so you can read the full call and apply with the
-          issuing organization.
+          Use it to scan recent news, accreditation and policy updates, and
+          open conference calls, grants, awards, and journal special issues.
+          Each listing includes a link to the official page, so you can read
+          the full call or announcement and follow up with the issuing
+          organization.
         </p>
         <p>
           We do not take applications, nominations, or payments. Deadlines,

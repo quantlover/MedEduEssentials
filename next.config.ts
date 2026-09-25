@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
       { source: "/grant", destination: "/grants", permanent: false },
       { source: "/award", destination: "/awards", permanent: false },
       { source: "/journal", destination: "/journals", permanent: false },
+      { source: "/accreditation", destination: "/policy", permanent: false },
     ];
   },
 };

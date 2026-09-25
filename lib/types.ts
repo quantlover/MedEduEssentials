@@ -42,8 +42,22 @@ export type Source = {
   organization: string;
   url: string;
   kind: "association" | "foundation" | "journal" | "accreditor" | "exam" | "university";
-  collects: Array<"conference" | "grant" | "award" | "journal" | "news">;
+  collects: Array<"conference" | "grant" | "award" | "journal" | "news" | "policy">;
   notes: string;
+};
+
+export type PolicyUpdate = {
+  id: string;
+  title: string;
+  summary: string;
+  publishedAt: string;
+  effectiveDate?: string;
+  organization: string;
+  bodies: string[];
+  url: string;
+  sourceName: string;
+  sourceUrl: string;
+  collectedAt: string;
 };
 
 export type CatalogFile<T> = {

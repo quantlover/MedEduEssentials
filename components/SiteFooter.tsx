@@ -10,6 +10,9 @@ export function SiteFooter() {
           issuing organization.
         </p>
         <div className="flex gap-4">
+          <Link href="/policy" className="hover:text-teal-dark">
+            Accreditation and Policy
+          </Link>
           <Link href="/sources" className="hover:text-teal-dark">
             Sources
           </Link>

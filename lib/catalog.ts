@@ -1,20 +1,24 @@
 import opportunitiesFile from "@/data/opportunities.json";
 import newsFile from "@/data/news.json";
+import policyFile from "@/data/policy.json";
 import sourcesFile from "@/data/sources.json";
 import {
   computedStatus,
   daysUntil,
 } from "./dates";
+import { sortPolicyUpdates } from "./policy";
 import type {
   CatalogFile,
   Category,
   NewsItem,
   Opportunity,
+  PolicyUpdate,
   Source,
 } from "./types";
 
 const opportunitiesCatalog = opportunitiesFile as CatalogFile<Opportunity>;
 const newsCatalog = newsFile as CatalogFile<NewsItem>;
+const policyCatalog = policyFile as CatalogFile<PolicyUpdate>;
 const sourcesCatalog = sourcesFile as CatalogFile<Source>;
 
 export const generatedAt = opportunitiesCatalog.generatedAt;
@@ -48,6 +52,10 @@ export function getNews(): NewsItem[] {
   return [...newsCatalog.items].sort((a, b) =>
     b.publishedAt.localeCompare(a.publishedAt),
   );
+}
+
+export function getPolicyUpdates(): PolicyUpdate[] {
+  return sortPolicyUpdates(policyCatalog.items);
 }
 
 export function getSources(): Source[] {

@@ -50,30 +50,6 @@
       ]
     },
     {
-      "id": "aamc-lsl-2027-reviewers",
-      "category": "conference",
-      "title": "Learn Serve Lead 2027 \u2014 Volunteer Abstract Reviewers",
-      "organization": "Association of American Medical Colleges",
-      "description": "AAMC seeks volunteer abstract reviewers for the Learn Serve Lead 2027 medical education call. Open to reviewers at all experience levels. Anticipated review period is 10 December 2026 \u2013 7 January 2027.",
-      "deadline": "2026-10-26",
-      "deadlineNote": "11:59 p.m. PT",
-      "eventStart": "2027-11-12",
-      "eventEnd": "2027-11-16",
-      "location": "Washington, DC, USA",
-      "region": "North America",
-      "status": "open",
-      "url": "https://www.aamc.org/about-us/medical-education/scholarship-submissions",
-      "sourceName": "AAMC scholarship submissions",
-      "sourceUrl": "https://www.aamc.org/about-us/medical-education/scholarship-submissions",
-      "collectedAt": "2026-09-22",
-      "tags": [
-        "reviewer",
-        "abstracts",
-        "ume",
-        "gme"
-      ]
-    },
-    {
       "id": "iamse-2027-orals-posters",
       "category": "conference",
       "title": "IAMSE 2027 \u2014 Poster and Oral Abstract Submissions",
@@ -698,6 +674,71 @@
       ]
     },
     {
+      "id": "aera-nsf-research-grant-2026",
+      "category": "grant",
+      "title": "AERA\u2013NSF Research Grant",
+      "organization": "American Educational Research Association (with National Science Foundation)",
+      "description": "Research grants for faculty, postdoctoral researchers, and other doctoral-level scholars using rigorous quantitative methods on large-scale education data (NCES, NSF, SLDS, and other federal or health-related databases that can advance knowledge about education and learning). Awards are up to USD 25,000 for one-year projects or USD 35,000 for two-year projects; institutions may not charge overhead. The 2026 cycle closed 20 May 2026 at 11:59 p.m. PT. Medical and other health professions educators may apply when the project analyzes eligible large-scale data on education or learning.",
+      "deadline": "2026-05-20",
+      "deadlineNote": "11:59 p.m. PT. The 2026 cycle is closed.",
+      "region": "United States",
+      "amount": "Up to USD 25,000 (1 year) or USD 35,000 (2 years)",
+      "eligibility": "Faculty, postdoctoral researchers, and other doctoral-level scholars; U.S. citizens, U.S. permanent residents, or non-U.S. citizens affiliated with a U.S. institution; prior AERA Research Grant recipients (as PI or Co-PI) are not eligible",
+      "status": "closed",
+      "url": "https://www.aera.net/Professional-Opportunities-Funding/AERA-Funding-Opportunities/AERA-NSF-Grants-Program/Research-Grants",
+      "sourceName": "AERA\u2013NSF Research Grants",
+      "sourceUrl": "https://www.aera.net/Professional-Opportunities-Funding/AERA-Funding-Opportunities/AERA-NSF-Grants-Program/Research-Grants",
+      "collectedAt": "2026-09-25",
+      "tags": [
+        "research",
+        "hpe"
+      ]
+    },
+    {
+      "id": "aera-nsf-dissertation-grant-2026",
+      "category": "grant",
+      "title": "AERA\u2013NSF Dissertation Grant",
+      "organization": "American Educational Research Association (with National Science Foundation)",
+      "description": "One-year, non-renewable support for advanced doctoral students writing a dissertation that uses large-scale education data and quantitative methods. Award includes a stipend of up to USD 27,500, travel to an AERA research conference in Washington, DC, and a capstone institute at the AERA Annual Meeting. Health-related databases that can advance knowledge about education and learning are eligible. The 2026 cycle closed 20 May 2026 at 11:59 p.m. PT.",
+      "deadline": "2026-05-20",
+      "deadlineNote": "11:59 p.m. PT. The 2026 cycle is closed.",
+      "region": "United States",
+      "amount": "Up to USD 27,500 stipend plus conference travel",
+      "eligibility": "Advanced doctoral students at the dissertation-writing stage; U.S. citizens or permanent residents enrolled in a doctoral program, or non-U.S. citizens enrolled in a doctoral program at a U.S. institution",
+      "status": "closed",
+      "url": "https://www.aera.net/Professional-Opportunities-Funding/AERA-Funding-Opportunities/AERA-NSF-Grants-Program/Dissertation-Grants",
+      "sourceName": "AERA\u2013NSF Dissertation Grants",
+      "sourceUrl": "https://www.aera.net/Professional-Opportunities-Funding/AERA-Funding-Opportunities/AERA-NSF-Grants-Program/Dissertation-Grants",
+      "collectedAt": "2026-09-25",
+      "tags": [
+        "research",
+        "early-career",
+        "students",
+        "hpe"
+      ]
+    },
+    {
+      "id": "aera-amgsaf-2027",
+      "category": "award",
+      "title": "AERA Annual Meeting Graduate Student Assistance Fund (2027)",
+      "organization": "American Educational Research Association",
+      "description": "Need-based support for AERA graduate student members to offset the cost of attending the Annual Meeting. AERA makes up to 100 awards of a maximum of USD 500 each year. Students at institutions inside and outside the United States are eligible. Recipients of other AERA division or SIG travel funding for the same meeting are not eligible. AERA states that information for the 2027 Toronto meeting fund will be posted soon.",
+      "deadlineNote": "2027 call not yet posted. Watch the AMGSAF page.",
+      "region": "International",
+      "amount": "Up to USD 500 (up to 100 awards)",
+      "eligibility": "AERA graduate student members with demonstrated need; not already receiving other AERA travel funding for the same Annual Meeting",
+      "status": "upcoming",
+      "url": "https://www.aera.net/Education-Research/AERA-Annual-Meeting-Graduate-Student-Assistance-Fund",
+      "sourceName": "AERA Annual Meeting Graduate Student Assistance Fund",
+      "sourceUrl": "https://www.aera.net/Education-Research/AERA-Annual-Meeting-Graduate-Student-Assistance-Fund",
+      "collectedAt": "2026-09-25",
+      "tags": [
+        "travel",
+        "students",
+        "hpe"
+      ]
+    },
+    {
       "id": "eafri-2027",
       "category": "grant",
       "title": "Eastern Africa FAIMER Regional Institute \u2014 2027 Fellowship",
@@ -1294,6 +1335,31 @@
         "workshops",
         "ume",
         "gme"
+      ]
+    },
+    {
+      "id": "aera-2027-annual-meeting",
+      "category": "conference",
+      "title": "AERA 2027 Annual Meeting \u2014 Division I (Education in the Professions)",
+      "organization": "American Educational Research Association \u2014 Division I",
+      "description": "AERA\u2019s 2027 Annual Meeting will be held in Toronto, 14\u201318 April 2027, under the theme \u201cTranscending Borders and Boundaries in Education Research: Toward a Beloved Global Community.\u201d Division I (Education in the Professions) is the AERA home for research on education in professional practice, including the health professions, from higher education through lifelong learning and assessment. The 2027 call for submissions closed 24 July 2026. Watch the Annual Meeting page for registration and housing.",
+      "deadline": "2026-07-24",
+      "eventStart": "2027-04-14",
+      "eventEnd": "2027-04-18",
+      "location": "Toronto, Canada",
+      "region": "North America",
+      "status": "closed",
+      "url": "https://www.aera.net/Events-Meetings/Annual-Meeting/2027-Annual-Meeting",
+      "sourceName": "AERA 2027 Annual Meeting",
+      "sourceUrl": "https://www.aera.net/Events-Meetings/Annual-Meeting/2027-Annual-Meeting",
+      "collectedAt": "2026-09-25",
+      "tags": [
+        "hpe",
+        "ume",
+        "gme",
+        "abstracts",
+        "research",
+        "assessment"
       ]
     }
   ]

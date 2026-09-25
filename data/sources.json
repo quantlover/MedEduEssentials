@@ -12,9 +12,10 @@
         "conference",
         "award",
         "grant",
-        "news"
+        "news",
+        "policy"
       ],
-      "notes": "Learn Serve Lead, GEA National Grant Award, awards, NEXT Grant, and AAMCNews."
+      "notes": "Learn Serve Lead, GEA National Grant Award, awards, NEXT Grant, AAMCNews, Foundational Competencies, and Core EPAs."
     },
     {
       "id": "amee",
@@ -62,9 +63,10 @@
       "url": "https://www.acgme.org/",
       "kind": "accreditor",
       "collects": [
-        "conference"
+        "conference",
+        "policy"
       ],
-      "notes": "Annual Educational Conference abstracts."
+      "notes": "Annual Educational Conference abstracts, Milestones, and accreditation system updates."
     },
     {
       "id": "royal-college",
@@ -96,7 +98,8 @@
       "kind": "exam",
       "collects": [
         "grant",
-        "news"
+        "news",
+        "policy"
       ],
       "notes": "Stemmler Grants, Emerging Innovators Grants, and assessment news."
     },
@@ -131,9 +134,10 @@
       "kind": "foundation",
       "collects": [
         "grant",
-        "news"
+        "news",
+        "policy"
       ],
-      "notes": "FAIMER fellowships and IMG well-being grants."
+      "notes": "FAIMER fellowships, IMG well-being grants, and Recognized Accreditation Policy."
     },
     {
       "id": "usmle",
@@ -142,7 +146,8 @@
       "url": "https://www.usmle.org/",
       "kind": "exam",
       "collects": [
-        "news"
+        "news",
+        "policy"
       ],
       "notes": "Passing-standard reviews and testing-policy announcements."
     },
@@ -153,9 +158,21 @@
       "url": "https://lcme.org/",
       "kind": "accreditor",
       "collects": [
-        "news"
+        "news",
+        "policy"
       ],
       "notes": "Functions and Structure of a Medical School standards and public hearings."
+    },
+    {
+      "id": "wfme",
+      "name": "World Federation for Medical Education",
+      "organization": "WFME",
+      "url": "https://wfme.org/recognition/",
+      "kind": "accreditor",
+      "collects": [
+        "policy"
+      ],
+      "notes": "Recognition Programme for medical-school accrediting agencies."
     },
     {
       "id": "bmc-meded",
@@ -291,6 +308,19 @@
         "news"
       ],
       "notes": "ChangeMedEd Innovation Grants, precision education grants, Bright Ideas Showcase, and the Giambalvo Fund."
+    },
+    {
+      "id": "aera",
+      "name": "American Educational Research Association",
+      "organization": "AERA",
+      "url": "https://www.aera.net/",
+      "kind": "association",
+      "collects": [
+        "conference",
+        "grant",
+        "award"
+      ],
+      "notes": "Annual Meeting including Division I (Education in the Professions), AERA\u2013NSF grants, and the graduate student assistance fund."
     }
   ]
 }
